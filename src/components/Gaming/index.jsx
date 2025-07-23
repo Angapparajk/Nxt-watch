@@ -18,7 +18,7 @@ import {
   RetryButton,
   VideosList,
   GamingMainContainer,
-} from './styledComponents';
+} from './StyledComponents';
 import GamingBody from '../GamingBody';
 import ThemeContext from '../../context/ThemeContext';
 
