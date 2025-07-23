@@ -7,8 +7,8 @@ import { Link, useNavigate } from 'react-router-dom';
 import Cookies from 'js-cookie';
 import Popup from 'reactjs-popup';
 import MenuItemsList from '../MenuItemsList';
-import ActiveMenuContext from '../../Context/ActiveMenuContext';
-import ThemeContext from '../../Context/ThemeContext';
+import ActiveMenuContext from '../../context/ActiveMenuContext';
+import ThemeContext from '../../context/ThemeContext';
 import 'reactjs-popup/dist/index.css';
 import {
   NavMobileContainer,

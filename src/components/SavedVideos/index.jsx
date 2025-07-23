@@ -18,8 +18,8 @@ import {
 } from './styledComponents'
 
 import TrendingVideoCard from '../TrendingVideoCard'
-import SavedVideosContext from '../../Context/SavedVideosContext'
-import ThemeContext from '../../Context/ThemeContext'
+import SavedVideosContext from '../../context/SavedVideosContext'
+import ThemeContext from '../../context/ThemeContext'
 
 const SavedVideos = () => {
   const savedList = themeValue => {

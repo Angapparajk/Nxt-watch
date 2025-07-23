@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import MenuItemsList from '../MenuItemsList';
-import ThemeContext from '../../Context/ThemeContext';
+import ThemeContext from '../../context/ThemeContext';
 import {
   SidebarContainer,
   LogoIcons,

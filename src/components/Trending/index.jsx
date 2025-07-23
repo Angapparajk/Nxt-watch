@@ -5,7 +5,7 @@ import Cookies from 'js-cookie';
 import Header from '../Header';
 import Sidebar from '../Sidebar';
 import TrendingVideoCard from '../TrendingVideoCard';
-import ThemeContext from '../../Context/ThemeContext';
+import ThemeContext from '../../context/ThemeContext';
 import {
   MainBody,
   SidebarContainer,

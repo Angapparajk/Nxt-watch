@@ -20,7 +20,7 @@ import {
   GamingMainContainer,
 } from './styledComponents';
 import GamingBody from '../GamingBody';
-import ThemeContext from '../../Context/ThemeContext';
+import ThemeContext from '../../context/ThemeContext';
 
 const apiStatusConstants = {
   initial: 'INITIAL',

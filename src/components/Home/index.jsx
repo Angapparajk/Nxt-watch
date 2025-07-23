@@ -6,7 +6,7 @@ import { ThreeDots } from 'react-loader-spinner';
 import Header from '../Header';
 import Sidebar from '../Sidebar';
 import HomeBody from '../HomeBody';
-import ThemeContext from '../../Context/ThemeContext';
+import ThemeContext from '../../context/ThemeContext';
 import {
   MainBody,
   SidebarContainer,

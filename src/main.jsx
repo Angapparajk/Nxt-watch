@@ -13,7 +13,7 @@ createRoot(document.getElementById('root')).render(
       <SavedVideosContextProvider>
         <ActiveMenuContextProvider>
           <BrowserRouter>
-            <App />
+    <App />
           </BrowserRouter>
         </ActiveMenuContextProvider>
       </SavedVideosContextProvider>

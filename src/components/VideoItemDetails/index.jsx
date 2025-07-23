@@ -8,8 +8,8 @@ import ReactPlayer from 'react-player';
 import { ThreeDots } from 'react-loader-spinner';
 import Header from '../Header';
 import Sidebar from '../Sidebar';
-import ThemeContext from '../../Context/ThemeContext';
-import SavedVideosContext from '../../Context/SavedVideosContext';
+import ThemeContext from '../../context/ThemeContext';
+import SavedVideosContext from '../../context/SavedVideosContext';
 import {
   MainBody,
   SidebarContainer,

@@ -1,8 +1,8 @@
 import {Link} from 'react-router-dom'
 import {formatDistanceToNow} from 'date-fns'
 
-import ThemeContext from '../../Context/ThemeContext'
-import ActiveMenuContext from '../../Context/ActiveMenuContext'
+import ThemeContext from '../../context/ThemeContext'
+import ActiveMenuContext from '../../context/ActiveMenuContext'
 
 import {
   VideoCardContainer,

@@ -1,7 +1,7 @@
 import { useState, useContext } from 'react';
 import { useNavigate, Navigate } from 'react-router-dom';
 import Cookies from 'js-cookie';
-import ThemeContext from '../../Context/ThemeContext';
+import ThemeContext from '../../context/ThemeContext';
 import {
   LoginContainer,
   LoginCardContainer,
