@@ -100,8 +100,12 @@ export const VideosList = styled.ul`
 `
 
 export const LoaderContainer = styled.div`
-  text-align: center;
-`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+`;
 
 export const FailureContainer = styled.div`
   display: flex;

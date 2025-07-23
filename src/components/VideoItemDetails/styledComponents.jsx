@@ -46,8 +46,12 @@ export const RetryButton = styled.button`
   border-radius: 5px;
 `
 export const LoaderContainer = styled.div`
-  text-align: center;
-`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+`;
 
 export const VideoItemDetailsContainer = styled.div`
   height: 90vh;
